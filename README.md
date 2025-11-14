@@ -33,4 +33,4 @@ This dataset is now ready for:
 1.  Visualization of content production trends over time.
 2.  Modeling content popularity prediction.
 
-[Optional: Link directly to your notebook file for immediate viewing: **View the full code and outputs in the [Project Notebook](ETL_Process_Netflix_Dataset.ipynb)**]
+
